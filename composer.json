@@ -1,0 +1,16 @@
+{
+    "name": "fabiano/sql-project",
+    "description": "aprendendo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fabiano Augusto Oliveira",
+            "email": "fabianooliveirale@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*",
+        "slim/slim":"2.0"
+    }
+}
