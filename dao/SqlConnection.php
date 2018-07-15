@@ -27,7 +27,7 @@ class SqlConnection extends PDO{
 
 		public function __construct(){
 
-				$this->connection = new PDO("mysql:host=localhost;dbname=projetoponto", "root","");
+				$this->connection = new PDO("mysql:host=191.177.186.163;dbname=projetoponto", "root","");
 
 		}
 
